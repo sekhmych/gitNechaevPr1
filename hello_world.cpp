@@ -10,6 +10,7 @@ int main() {
 	std::cin >> name;
 	// output - user greetings world
 	std::cout << "Hello world from " << name << std::endl;
+	std::cout << "Hello you to, " << name << " !" << std::endl;
 	return 0;
 }
 
