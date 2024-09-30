@@ -13,7 +13,9 @@ int main() {
 	std::cout << "Hello world from " << name << std::endl;
 
 	// Стоит поменять текст, как нибудь потом
-	
+	std::cout << "Hello you to, " << name << " !" << std::endl;
+
+
 	return 0;
 }
 
